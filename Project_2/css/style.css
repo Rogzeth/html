@@ -1,0 +1,37 @@
+.content {
+    padding: 20px 40px 0 10px;
+}
+
+.reverse {
+    background-color: black;
+    color: linen;
+    padding-left: 5px;
+}
+
+.block {
+    margin-bottom: 50px;
+    background-color: lightcyan;
+    padding: 10px 5px;
+    text-align: center;
+}
+
+.block p:first-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.menu a:link, .menu a:visited {
+    color: cadetblue;
+}
+
+.menu a:hover {
+    color: brown;
+    font-size: 1.1em;
+}
+
+.menu a:active {
+    color: lightsalmon;
+    font-size: 0.9em;
+}
+
+
